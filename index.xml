@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanessa</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Vanessa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2017 10:55:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primeros pasos</title>
+      <link>http://example.org/post/miprimerpost/</link>
+      <pubDate>Mon, 08 May 2017 10:55:53 -0500</pubDate>
+      
+      <guid>http://example.org/post/miprimerpost/</guid>
+      <description>¡El éxito es el resultado de las decisiones acertadas, las decisiones acertadas son el resultado de la experiencia y la experiencia suele ser resultado de las decisiones equivocadas! Anthony Robbins  Abril 2017 En muchas ocasiones he dudado de que mis decisiones han sido las &amp;ldquo;correctas&amp;rdquo;. Sin embargo, ahora que veo las cosas en retrospectiva, me doy cuenta que muchas de éstas en su momento me parecieron muy arriesgadas y difíles de seguir pero, me han colocado en el lugar en el que estoy, dandome muchas experiencias y aprendizajes</description>
+    </item>
+    
+  </channel>
+</rss>
