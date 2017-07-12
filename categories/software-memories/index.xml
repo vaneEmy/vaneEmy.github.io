@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Memories on Vanessa Emily</title>
+    <link>https://vaneemy.github.io/categories/software-memories/</link>
+    <description>Recent content in Software Memories on Vanessa Emily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2017 23:50:11 -0500</lastBuildDate>
+    
+	<atom:link href="https://vaneemy.github.io/categories/software-memories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Day</title>
+      <link>https://vaneemy.github.io/post/pythonday/</link>
+      <pubDate>Tue, 11 Jul 2017 23:50:11 -0500</pubDate>
+      
+      <guid>https://vaneemy.github.io/post/pythonday/</guid>
+      <description>Una playera muy chevere del evento
+ Hace unos días asistí al Python Day Mexico que se llevo a cabo en las instalaciones de Telmex Hub, Ciudad de México.
+Con anterioridad ya había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
+Sin embargo, esta vez todo fue muy diferente, desde que entre pude notar que había demasiada gente, que estaban escuchando una platica por streaming en inglés, los cuales varios estaban de pie, al lado, otros muy atentamente escribian código en un taller de Python.</description>
+    </item>
+    
+  </channel>
+</rss>

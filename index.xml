@@ -6,10 +6,22 @@
     <description>Recent content on Vanessa Emily</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 10:29:04 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 23:50:11 -0500</lastBuildDate>
     
 	<atom:link href="https://vaneemy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python Day</title>
+      <link>https://vaneemy.github.io/post/pythonday/</link>
+      <pubDate>Tue, 11 Jul 2017 23:50:11 -0500</pubDate>
+      
+      <guid>https://vaneemy.github.io/post/pythonday/</guid>
+      <description>Una playera muy chevere del evento
+ Hace unos días asistí al Python Day Mexico que se llevo a cabo en las instalaciones de Telmex Hub, Ciudad de México.
+Con anterioridad ya había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
+Sin embargo, esta vez todo fue muy diferente, desde que entre pude notar que había demasiada gente, que estaban escuchando una platica por streaming en inglés, los cuales varios estaban de pie, al lado, otros muy atentamente escribian código en un taller de Python.</description>
+    </item>
     
     <item>
       <title>Pruebas</title>
