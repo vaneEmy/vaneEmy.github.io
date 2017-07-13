@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Guru on Vanessa Emily</title>
+    <link>https://vaneemy.github.io/categories/software-guru/</link>
+    <description>Recent content in Software Guru on Vanessa Emily</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 22:16:32 -0500</lastBuildDate>
+    
+	<atom:link href="https://vaneemy.github.io/categories/software-guru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Guru</title>
+      <link>https://vaneemy.github.io/post/softwareguru/</link>
+      <pubDate>Wed, 12 Jul 2017 22:16:32 -0500</pubDate>
+      
+      <guid>https://vaneemy.github.io/post/softwareguru/</guid>
+      <description>Software guru fue un evento enfocado más que nada a la parte tecnológica, todos los expositores son personas que saben mucho del tema del que hablan, son realmente buenos en lo que hacen.
+A pesar de que era enfocado en la tecnología y se trataban de varios temas, el que fue un común denominador fue la transicción a la era digital, la mayoría de los que impartieron las charlas recalcaban que hoy en día, cualquier negocio deberá ser un negocio de software.</description>
+    </item>
+    
+  </channel>
+</rss>

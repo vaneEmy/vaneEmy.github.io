@@ -6,10 +6,20 @@
     <description>Recent content in Software Memories on Vanessa Emily</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jul 2017 23:50:11 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 22:17:22 -0500</lastBuildDate>
     
 	<atom:link href="https://vaneemy.github.io/categories/software-memories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile Open</title>
+      <link>https://vaneemy.github.io/post/agileopen/</link>
+      <pubDate>Wed, 12 Jul 2017 22:17:22 -0500</pubDate>
+      
+      <guid>https://vaneemy.github.io/post/agileopen/</guid>
+      <description>Agile Open es el primer evento grande al que asistí por lo que realmente todo era nuevo para mi, no conocía la dinámica de cómo se llebaban a cabo las charlas y en qué consistían las actividades.
+Al inicio del evento, cada persona que quería compartir sobre un tema ágil o quería saber algo en particular, tomaba una hoja, y lo escribía, pasaba al frente y platicaba brevemente su propuesta, los que no sabían y pedían ayuda, esperaban que alguien de los presentes se ofrecieran para solucionar su inquietud o simplemente, dar una orientación.</description>
+    </item>
     
     <item>
       <title>Python Day</title>
@@ -17,10 +27,10 @@
       <pubDate>Tue, 11 Jul 2017 23:50:11 -0500</pubDate>
       
       <guid>https://vaneemy.github.io/post/pythonday/</guid>
-      <description>Una playera muy chevere del evento
+      <description>Un recuerdo bonito del evento
  Hace unos días asistí al Python Day Mexico que se llevo a cabo en las instalaciones de Telmex Hub, Ciudad de México.
-Con anterioridad ya había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
-Sin embargo, esta vez todo fue muy diferente, desde que entre pude notar que había demasiada gente, que estaban escuchando una platica por streaming en inglés, los cuales varios estaban de pie, al lado, otros muy atentamente escribian código en un taller de Python.</description>
+Con anterioridad, había asistido a algunos cursos que suelen ofrecer, así que ya más o menos conocía la logistica del lugar.
+Sin embargo, esta vez todo fue muy diferente, desde que entré pude notar que había demasiada gente, de la cual la mayoría estaba escuchando una platica por streaming en inglés, debido a la cantidad de gente en el lugar, una cantidad considerable de los asistetes estaban de pie, por otro lado, otros escribian código en un taller de Python.</description>
     </item>
     
   </channel>
