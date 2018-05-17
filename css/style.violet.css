@@ -1729,7 +1729,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #heading-breadcrumbs {
   /*background: url('../img/texture-bw.png') center center repeat;*/
-  background: #d147a3;
+  background: #e085c2;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -3158,7 +3158,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #555555;
 }
@@ -3423,7 +3423,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  font-size: 14px;
+  font-size: 17px;
   border-left: 5px solid #986dbd;
 }
 blockquote footer,
@@ -3433,6 +3433,8 @@ blockquote .small {
   font-size: 80%;
   line-height: 1.42857143;
   color: #999999;
+  
+
 }
 blockquote footer:before,
 blockquote small:before,
